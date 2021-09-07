@@ -9,11 +9,29 @@ Hyderabad is among the most developed Indian cities. The city of Hyderabad is fa
 # Directions from Maryville to Nevada
 1. Catch a directions of 1,396 miles from marryville to Henderson via flight
 2. catch a cab and go to the kansas airport(mca)
-  1. take a flight from kansas to lasvegas airport(las)
-  2. take all ur belongings and book a cab to henderson which takes 10-15 min from airport
+    1. take a flight from kansas to lasvegas airport(las)
+    2. take all ur belongings and book a cab to henderson which takes 10-15 min from airport
 3. wait for the cab to arive 
-  1. Sit back and enjoy the lightning and mountain view 
-  2. By listening to ur favourit music
-4. Finally we have reached our location yeyeye..!!      
+    1. Sit back and enjoy the lightning and mountain view 
+    2. By listening to ur favourit music
+4. Finally we have reached our location yeyeye..!!
+
+
+* Items i would like to carry with me:
+ * Drinks:
+    * Cocola
+    * Tropicana
+    * Minute maid
+    * Water 
+* Accessories:
+    * Airpods
+    * iwatch
+    * DSLR
+    * Power Bank  
+    * Cable 
+* Snacks  
+    * Chocolates
+    * Chips
+
 
 
