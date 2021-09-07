@@ -46,3 +46,9 @@ I am going to create a table with  4 food items that I would love to recommend s
 |Pizza|Pizzeria|7$|
 |Sushi|Republica|12$|
 |Icecream|creamworld|2$|
+
+
+# Pithy Quote
+
+> "When nobody else celebrates you, learn to celebrate yourself. When nobody else compliments you, then compliment yourself. It’s not up to other people to keep you encouraged. It’s up to you. Encouragement should come from the inside." *Jay Shetty*
+> "Hell is empty and all the devils are here." *William Shakespeare*
