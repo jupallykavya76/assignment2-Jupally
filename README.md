@@ -97,5 +97,5 @@ void dijkstra(int s, vector<int> & d, vector<int> & p) {
     }
 }
 ```
-[code source]((https://cp-algorithms.com/graph/dijkstra.html))
+[code source](https://cp-algorithms.com/graph/dijkstra.html)
 
