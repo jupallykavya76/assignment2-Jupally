@@ -35,3 +35,14 @@ Hyderabad is among the most developed Indian cities. The city of Hyderabad is fa
 
 **[AboutMe.md](AboutMe.md)**
 
+---
+
+# food i loved and i would love to suggest
+I am going to create a table with  4 food items that I would love to recommend someone try = Thai Friedrice, Pizza,Sushi , Icecream.
+
+|Food Item|Location| Cost|
+|---|---|---|
+|Thai Friedrice|rewoke|10$|
+|Pizza|Pizzeria|7$|
+|Sushi|Republica|12$|
+|Icecream|creamworld|2$|
